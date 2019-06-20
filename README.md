@@ -17,3 +17,4 @@ b.the first time you run 'train', the code will automatically download trained '
 c. in your command line, type: python train.py 
 
  
+test: in your command line,type:python train.py  --mode evaluate
