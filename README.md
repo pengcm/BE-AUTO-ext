@@ -14,6 +14,6 @@ how to use:
 1.train:
 a. you can set yout own parameters in config.py. e.g. your can use your own data set to train by set" config.TRAIN.hr_img_path='your data set path'"
 b.the first time you run 'train', the code will automatically download trained 'vgg-19', if it takes too long, you can download it manually from https://mega.nz/#!xZ8glS6J!MAnE91ND_WyfZ_8mvkuSa2YcA7q-1ehfSm-Q1fxOvvs and put it in a folder named 'models'
-c. run train.py 
+c. in your command line, type: python train.py 
 
  
