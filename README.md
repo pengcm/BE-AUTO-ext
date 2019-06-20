@@ -20,3 +20,4 @@ c. in your command line, type: python train.py
 test: in your command line,type:python train.py  --mode evaluate
 
 network model:![maze](https://github.com/pengcm/BE-AUTO-ext/blob/master/model.jpg) 
+results:![maze](https://github.com/pengcm/BE-AUTO-ext/blob/master/results/figure6_GT.png)
