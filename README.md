@@ -18,3 +18,5 @@ c. in your command line, type: python train.py
 
  
 test: in your command line,type:python train.py  --mode evaluate
+
+network model:![maze](https://github.com/BE-AUTO-ext/model.eps) 
