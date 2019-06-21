@@ -20,11 +20,11 @@ c. in your command line, type: python train.py
 test: in your command line,type:python train.py  --mode evaluate
 
 network model:![maze](https://github.com/pengcm/BE-AUTO-ext/blob/master/model.jpg) 
-results:![maze](https://github.com/pengcm/BE-AUTO-ext/blob/master/results/figure6_GT.png)
+results:![maze](https://github.com/pengcm/BE-AUTO-ext/blob/master/results/figure5_GT.png)
+![maze](https://github.com/pengcm/BE-AUTO-ext/blob/master/results/figure5_ZP.png)
+![maze](https://github.com/pengcm/BE-AUTO-ext/blob/master/results/figure5_BE-RTCNN.png)
+![maze](https://github.com/pengcm/BE-AUTO-ext/blob/master/results/figure5_ours.png)
+![maze](https://github.com/pengcm/BE-AUTO-ext/blob/master/results/figure6_GT.png)
 ![maze](https://github.com/pengcm/BE-AUTO-ext/blob/master/results/figure6_ZP.png)
 ![maze](https://github.com/pengcm/BE-AUTO-ext/blob/master/results/figure6_BE-RTCNN.png)
 ![maze](https://github.com/pengcm/BE-AUTO-ext/blob/master/results/figure6_ours.png)
-![maze](https://github.com/pengcm/BE-AUTO-ext/blob/master/results/figure7_GT.png)
-![maze](https://github.com/pengcm/BE-AUTO-ext/blob/master/results/figure7_ZP.png)
-![maze](https://github.com/pengcm/BE-AUTO-ext/blob/master/results/figure7_BE-RTCNN.png)
-![maze](https://github.com/pengcm/BE-AUTO-ext/blob/master/results/figure7_ours.png)
